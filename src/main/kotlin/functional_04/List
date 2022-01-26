@@ -1,0 +1,7 @@
+A list is an ordered collection of items. In Kotlin,
+lists can be either mutable (MutableList) or read-only (List).
+For list creation, use the standard library functions listOf()
+for read-only lists and mutableListOf() for mutable lists.
+To prevent unwanted modifications, obtain read-only views of mutable lists by casting them to List.
+
+https://developer.android.com/studio/run/managing-avds
